@@ -1,1 +1,2 @@
 # ElegantCraftsEmporium
+# CraftsEmporium
