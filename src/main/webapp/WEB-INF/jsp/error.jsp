@@ -22,13 +22,14 @@
     </style>
 </head>
 
-<body>
+<body style="background-color: black;">
     <div class="container ">
-        <div class="container-bg">
+        <div class="container-bg" style="margin-top: 50px;">
         <div class="row">
             <div class="col-md-8 offset-md-2 text-center">
                 <h1 class="mt-5">OOPS! YANHA PE TO KUCH HAIE NOU.</h1>
                 <p class="lead">Something went wrong. We apologize for the inconvenience. Please try again later.</p>
+                <p>${errorMessage}</p>
             </div>
         </div>
         </div>
